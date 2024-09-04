@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @quangtung283
 - 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me :tung2832002@gmail.com
+- 📫 How to reach me :quangtung2832002fpt@gmail.com
 - ⚡ Fun fact: Code is my life
